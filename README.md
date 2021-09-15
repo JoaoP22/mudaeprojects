@@ -6,4 +6,4 @@ Credits can also be found on the 'Config./Info' tab on the Spreadsheet.
 
 Original Kakera Tower code by me.
 
-Any questions? Ask me on Discord: Chronos_J#1998
+Any questions or suggestions? Ask me on Discord: Chronos_J#1998
